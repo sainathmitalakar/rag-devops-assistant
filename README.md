@@ -190,9 +190,4 @@ PyPDF2 – PDF text extraction
 
 AWS S3 – Cloud storage for embeddings 
 
-<img width="943" height="539" alt="image" src="https://github.com/user-attachments/assets/433eb0a0-5b4f-482a-882c-5302fd0dbab6" />
-
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/9be02e1d-b59f-4cd3-b775-4d95c5a55bab" />
-
-<img width="950" height="540" alt="image" src="https://github.com/user-attachments/assets/62868918-a8df-4feb-b4c6-56433ca6f2ff" />
 
